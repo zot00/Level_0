@@ -16,7 +16,6 @@ public class HappyPet {
 			int task = JOptionPane.showOptionDialog(null, "What will make your pet happy?", "", 0, JOptionPane.INFORMATION_MESSAGE, null, new String[] { "FOOD", "Water", "Groom" }, null);
 
 			// 5. Use user input to call the appropriate method created in step 4.
-
 			// 6. If you determine the happiness level is large enough, tell the
 			//    user that he loves his pet and use break; to exit for loop.
 
