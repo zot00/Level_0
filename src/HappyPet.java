@@ -42,7 +42,7 @@ public class HappyPet {
 				if(task2 == 2){
 					hl = hl+100;
 					JOptionPane.showMessageDialog(null, "Your pet " + q + " ate the maid.");
-					JOptionPane.showMessageDialog(null, "You managed to sew your pet after discovering it was secretly stealing money from the government, plus it ate the maid.");
+					JOptionPane.showMessageDialog(null, "You managed to sue your pet after discovering it was secretly stealing money from the government, plus it ate the maid.");
 					JOptionPane.showMessageDialog(null, "It somehow escapes your house and becomes a worldwide absolute monarch. Take better care of your pet, because your house just got nuked.");
 					JOptionPane.showMessageDialog(null, "Your Pet's Happiness: " + hl + "% :)");
 					JOptionPane.showMessageDialog(null, "Your Happiness: 0% :(");
